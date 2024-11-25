@@ -1,0 +1,39 @@
+{
+  "users": [
+    {
+      "id": "d201",
+      "name": "Teste",
+      "email": "teste@gmail.com",
+      "password": "123456789",
+      "cepCode": "66812420",
+      "birthDate": "2003-10-09",
+      "isAdmin": true
+    }
+  ],
+  "products": [
+    {
+      "id": "das2",
+      "imgUrl": "https://images4.kabum.com.br/produtos/fotos/472684/water-cooler-msi-mag-coreliquid-m360-argb-120mm-intel-e-amd-preto_1696365022_m.jpg",
+      "description": "Water Cooler MSI MAG Coreliquid M360, ARGB, 360mm, AMD/Intel, Preto - MAG CORELIQUID M360",
+      "price": 489.99,
+      "quantity": 1
+    },
+    {
+      "id": "d133",
+      "imgUrl": "https://images9.kabum.com.br/produtos/fotos/542929/console-playstation-5-slim-edicao-digital-branco-2-jogos-1000038914_1713450978_m.jpg",
+      "description": "Console PlayStation 5 Slim Sony, SSD 1TB, Edição Digital, Com Controle Sem Fio DualSense, Branco + 2 Jogos Digitais - 1000038914",
+      "price": 2999,
+      "quantity": 1
+    },
+    {
+      "id": "3641",
+      "imgUrl": "https://images5.kabum.com.br/produtos/fotos/380745/ssd-kingston-nv2-1-tb-m-2-2280-pcie-nvme-leitura-2-100-mb-s-e-gravacao-1-700-mb-s-snv2s-1000g_1666033119_m.jpg",
+      "description": "SSD 1 TB Kingston NV2, M.2 2280 PCIe, NVMe, Leitura: 3500 MB/s e Gravação: 2100 MB/s - SNV2S/1000G",
+      "price": 369.99,
+      "quantity": 1
+    }
+  ],
+  "orders": [
+ 
+  ]
+}
